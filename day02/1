@@ -1,0 +1,4 @@
+#!/bin/bash
+
+read -p "Enter user Name" username
+echo "You enterd $username"
